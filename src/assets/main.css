@@ -1,0 +1,135 @@
+@import './base.css';
+
+/* Primary Color #5398d8 */
+/* Primary Hover Color #2e6dab */
+.card {
+    border-radius: 20px;
+}
+.bg-home-top{
+    border-radius: 0 0 0 100px;
+    height: 210px;
+    background-color: #2e6dab;
+}
+.bg-homeoffline-top{
+    border-radius: 0 0 0 100px;
+    height: 210px;
+    background-color: #444;
+}
+.div-menu{
+    padding-top: 5px;
+    padding-bottom: 13px;
+    vertical-align: middle;
+    border-radius: 20px 20px 0 0;
+}
+
+.menu-confirm{
+    text-decoration: none;
+    color: #2e6dab;
+    border-radius: 8px;
+    background-color: #fff;
+    padding: 5px 10px 5px 10px;
+    border: 1px solid #eee;
+    
+}
+.menu-confirm:hover, .menu-confirm:focus {
+    background-color: #f0f0f0;
+}
+
+
+.menu{
+    color: #5398d8;
+    text-decoration: none;
+    line-height: 110%;
+    font-size: 14px;
+}
+.menu:hover, .menu:focus{
+    color: #ff6584;
+}
+
+.menu-list{
+    color: #4880b4;
+    text-decoration: none;
+    line-height: 110%;
+    font-size: 14px;
+}
+.menu-list:hover, .menu-list:focus{
+    color: #c95d72;
+}
+
+.router-link-active{
+    color: #ff6584;
+}
+
+.btn{
+    font-size: 14px;
+    border-radius: 30px;
+}
+.btn-primary{
+    background-color: #5398d8;
+    border: #4e88c1;
+    padding: 8px 18px 8px 18px;
+}
+
+.btn-primary:hover, .btn-primary:focus{
+    background-color: #2e6dab;
+}
+
+
+.cari{
+    border-radius: 15px 15px 0 0;
+    border: none;
+    border-bottom: 1px solid #eee;
+    padding: 8px 10px 8px 15px;
+    background-color: #fff;
+    
+    
+ }
+
+
+.color-1{
+    color: #5398d8;
+}
+
+.color-2{
+    color: #3f3d56;
+}
+
+.color-3{
+    color: #2f2e41;
+}
+
+.color-4{
+    color: #ff6584;
+}
+.color-5{
+    color: #cccccc;
+}
+.color-6{
+    color: #f2f2f2;
+}
+
+.fs-7 {
+    font-size: 15px;
+}
+.fs-8 {
+    font-size: 14px;
+}
+.fs-9 {
+    font-size: 13px;
+}
+.fs-10 {
+    font-size: 12px;
+}
+
+.bg-content{
+    background-color: #f6f6f6;
+    min-height: 900px;
+}
+
+.bar-title{
+    background-color: #5398d8;
+    color: #fff;
+    font-weight: bold;
+    padding: 9px 15px 9px 15px;
+}
+
